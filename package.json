@@ -4,6 +4,5 @@
   "dependencies": {
     "jquery": "^3.4.1",
     "normalize.css": "^8.0.1"
-    
   }
 }
